@@ -17,7 +17,7 @@ nav{
     justify-content: space-between; 
     align-items: center;
     white-space: nowrap;
-    width:100;
+    width:100%;
     }
 
 li,h1,ul
@@ -248,7 +248,7 @@ a:hover, li:hover{
 }
 
 .check_button:hover{
-    background-color: black;
+    background-color: rgb(186, 85, 42);
 }
 
 
